@@ -2,6 +2,12 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "auth-web": "apps/auth-web",
+    "auth-web-e2e": "apps/auth-web-e2e",
+    "e-commerce-admin-web": "apps/e-commerce-admin-web",
+    "e-commerce-admin-web-e2e": "apps/e-commerce-admin-web-e2e",
+    "e-commerce-seller-web": "apps/e-commerce-seller-web",
+    "e-commerce-seller-web-e2e": "apps/e-commerce-seller-web-e2e",
     "e-commerce-web": "apps/e-commerce-web",
     "e-commerce-web-e2e": "apps/e-commerce-web-e2e"
   }
